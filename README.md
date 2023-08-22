@@ -1,5 +1,5 @@
 # Curso fundamentos de React <TypeScript | React> (Curso ignite-reactjs-01)
-Projeto foi realizado na formação no link: [https://cursos.alura.com.br/formacao-laravel](https://www.rocketseat.com.br/ignite)
+Projeto foi realizado na formação no link: [https://www.rocketseat.com.br/ignite](https://www.rocketseat.com.br/ignite)
 
 Objetivo do projeto: Um projeto inicial focado nos fundamentos do ReactJS, construído com Vite. Principais conceitos do React como componentes, estado, propriedades, imutabilidade, programação declarativa, hooks, CSS Modules e TypeScript.
 
